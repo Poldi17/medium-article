@@ -1,0 +1,87 @@
+.banner {
+    background-image: url(https://media.gettyimages.com/photos/thibaut-pinot-of-france-and-groupamafdj-celebrates-winning-stage-14-picture-id1156923938?s=2048x2048);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    opacity: 0.90;
+    padding: 150px 0;
+    text-shadow: 1.5px 1.5px 1.5px rgb(70,70,70);
+    text-align: center;
+}
+
+body {
+    color: #494949;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.container {
+    width: 750px;
+    margin: 50px auto;
+}
+
+h1 {
+  text-shadow: 1px 1px 1px black;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    border-radius: 10px;
+    color: white;
+}
+
+h2 {
+    color: #A0A0A0;
+    font-weight: 600;
+    padding: 10px;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: rgb(50, 50, 50);
+}
+
+p {
+    display: block;
+    width: 750px;
+    font-size:15px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    text-align: justify;
+    line-height: 25px;
+    padding: 10px;
+}
+
+.img-circle{
+  width: 750px;
+  color: white;
+  padding: 10px 0;
+}
+
+.card-white {
+  background-color: rgb(250, 250, 250);
+  box-shadow: 0px 10px 30px rgba(0,0,0.1,0.1);
+  border-radius: 5px;
+  text-align: center;
+  width: 800px;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400:
+  font-size: 15px;
+  padding: 10px;
+}
